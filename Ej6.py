@@ -1,3 +1,5 @@
+import os
+
 try:
     from modulo import dividir
 except ImportError:
